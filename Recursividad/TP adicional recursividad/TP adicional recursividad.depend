@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1693292933 source:c:\users\gasty\onedrive\escritorio\utn\programacion y laboratorio 2\recursividad\tp adicional recursividad\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1683788740 source:c:\users\gasty\onedrive\escritorio\utn\programacion y laboratorio 2\firma\firma.c
+	<stdio.h>
+	<stdlib.h>
+	"Firma.h"
+
+1683788451 c:\users\gasty\onedrive\escritorio\utn\programacion y laboratorio 2\firma\firma.h
+

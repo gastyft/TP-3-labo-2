@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692850292 source:c:\users\gasty\onedrive\escritorio\utn\programacion y laboratorio 2\tp punteros\tp punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
